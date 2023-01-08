@@ -1,7 +1,6 @@
 import calendar
 import datetime as datetime
 from datetime import date
-
 import dateutil.utils
 import pytz
 from dateutil.relativedelta import relativedelta
